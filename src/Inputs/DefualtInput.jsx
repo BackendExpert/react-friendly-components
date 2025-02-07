@@ -1,6 +1,6 @@
-import React, { useEffect, useState } from 'react'
+import React from 'react'
 
-const DefualtInput = ({ type, value, name, placeholder, required, onChange }) => {
+const DefualtInput = ({type, value, name, placeholder, required, onChange }) => {
   return (
     <input
         type={type}
