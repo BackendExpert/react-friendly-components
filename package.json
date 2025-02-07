@@ -19,5 +19,10 @@
   "bugs": {
     "url": "https://github.com/BackendExpert/react-friendly-components/issues"
   },
-  "homepage": "https://github.com/BackendExpert/react-friendly-components#readme"
+  "homepage": "https://github.com/BackendExpert/react-friendly-components#readme",
+  "dependencies": {
+    "autoprefixer": "^10.4.20",
+    "postcss": "^8.5.1",
+    "tailwindcss": "^4.0.4"
+  }
 }
