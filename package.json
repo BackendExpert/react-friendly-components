@@ -1,0 +1,23 @@
+{
+  "name": "react-friendly-components",
+  "version": "1.0.0",
+  "description": "React JS Supported components",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/BackendExpert/react-friendly-components.git"
+  },
+  "keywords": [
+    "ReactJS",
+    "Components"
+  ],
+  "author": "jehankandy",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/BackendExpert/react-friendly-components/issues"
+  },
+  "homepage": "https://github.com/BackendExpert/react-friendly-components#readme"
+}
