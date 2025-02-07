@@ -9,7 +9,6 @@ const DefualtInput = ({type, value, name, placeholder, required, onChange }) => 
         placeholder={placeholder}
         onChange={onChange}
         required={!!required}
-
         className='
             h-12 
             bg-gray-200/50 
